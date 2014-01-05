@@ -3,7 +3,6 @@ CACHE MANIFEST
 
 CACHE:
 404.html
-favicon.gif
 favicon.ico
 index.css
 index.html
@@ -232,4 +231,4 @@ NETWORK:
 http://*
 https://*
 
-# hash: 78924633cdb963842fa5b0d781d63fb6294dc9c6915a8be07af0351d4018fa87
+# hash: 6b14d42d36efe1c1fda74041b2e6bab88513c8459a2358d78145702606994389
