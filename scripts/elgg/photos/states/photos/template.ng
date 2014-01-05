@@ -19,7 +19,8 @@
 					   ui-sref="photos.image({ image: photo.guid })">
 						<div elgg-body>
 							<img ng-src="{{photo.image.url}}"
-							     class="elgg-photo" alt="">
+							     class="elgg-photo" alt=""
+							     width="200" height="200">
 						</div>
 						<div elgg-head>
 							<h3>{{photo.displayName}}</h3>

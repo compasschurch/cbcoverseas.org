@@ -8,7 +8,7 @@ define(function() {
                 return result.data;
             });
         },
-        
+
         /**
          * All the translations needed by this route
          * @ngInject
