@@ -9,7 +9,6 @@ assets/angular-translate.js
 assets/angular-ui-router.js
 assets/angular.js
 assets/apps/evanDefault.js
-assets/css-builder.js
 assets/css.js
 assets/elgg/accounts/module.js
 assets/elgg/accounts/states/login2/Controller.js
@@ -212,7 +211,10 @@ assets/ngRequire/Require.js
 assets/ngRequire/RequireProvider.js
 assets/ngRequire/createDirective.js
 assets/ngRequire/createModule.js
-assets/normalize.js
+assets/normalize.css
+assets/require-css/css-builder.js
+assets/require-css/css.js
+assets/require-css/normalize.js
 assets/require.js
 assets/snap.css
 assets/snap.js
@@ -225,4 +227,4 @@ NETWORK:
 http://*
 https://*
 
-# hash: a129a6b53f6d03c5e31e9d4962df91180e31efae152e83f17893f87634c2320e
+# hash: b48315d7ded7369bf4f1b920550c1c48bc7d3b52df26908f50ac356244f5e28c
