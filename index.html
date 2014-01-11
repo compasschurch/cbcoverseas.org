@@ -6,14 +6,13 @@
     <base href="http://compasschurch.github.io/cbcoverseas.org/">
     
     <title>{{page.title}}</title>
+    
     <meta name="description" content="{{page.description}}">
     <meta name="viewport" content="width=device-width, initial-scale=1, minimal-ui">
     <meta name="mobile-web-app-capable" content="yes">
 
-    <link rel="stylesheet" href="index.css">
-
     <link rel="shortcut icon" href="favicon.ico">
-
+    <link rel="stylesheet" href="index.css">
     <link ng-repeat="link in page.links" rel="{{link.rel}}" ng-href="{{link.href}}">
 
     <script>
