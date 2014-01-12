@@ -48,6 +48,8 @@ assets/elgg/core/directives/elggButton/directive.js
 assets/elgg/core/directives/elggButton/styles.css
 assets/elgg/core/directives/elggGallery/directive.js
 assets/elgg/core/directives/elggGallery/styles.css
+assets/elgg/core/directives/elggHeading/directive.js
+assets/elgg/core/directives/elggHeading/styles.css
 assets/elgg/core/directives/elggIcon/directive.js
 assets/elgg/core/directives/elggIcon/elgg_sprites.png
 assets/elgg/core/directives/elggIcon/menu.css
@@ -95,7 +97,6 @@ assets/elgg/core/directives/friendlyTime/styles.css
 assets/elgg/core/directives/friendsCollections/styles.css
 assets/elgg/core/directives/friendsPicker/styles.css
 assets/elgg/core/directives/grid/styles.css.php
-assets/elgg/core/directives/heading/styles.css
 assets/elgg/core/directives/imageBlock/styles.css
 assets/elgg/core/directives/inputAccess/styles.css
 assets/elgg/core/directives/inputHtml/ngDirective.js
@@ -230,4 +231,4 @@ NETWORK:
 http://*
 https://*
 
-# hash: ad4d10cde4183f235887cd926a057b7cb6b9d5dd32868127503f31d2e7814c1b
+# hash: c26f7448fbda176274057511036123bbd28438a9bdc6a019a97b4321135866fc
